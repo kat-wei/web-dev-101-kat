@@ -9,6 +9,7 @@
 		<div class="navbar bg-base-100">
 			<div class="flex-1">
 				<button>
+					<!-- svelte-ignore a11y-missing-attribute -->
 					<a class="btn-ghost btn text-xl normal-case">{appName}</a>
 				</button>
 			</div>
